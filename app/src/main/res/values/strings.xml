@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">FirstAndroidLab</string>
+    <string name="translated_poem">If bears were bees,\nThey would never ever\nThink to build\nA house so high!</string>
+
 </resources>
